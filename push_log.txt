@@ -1,2 +1,0 @@
-=== Step 1: git init === 
-Reinitialized existing Git repository in D:/csharpsource/practice/KepsHMI/KepsHIM-OpenCode/.git/
